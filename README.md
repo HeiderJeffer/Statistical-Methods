@@ -1,3 +1,9 @@
+# Statistical Methods
+
+Free University of Bozen-Bolzano
+
+Master in Computer Science
+
 Professor Leonardo Ricci
 
 Statistical Methods - Heider Jeffer Notation

@@ -1,3 +1,3 @@
 # Statistical Methods
 * Professor Leonardo Ricci
-* Heider Jeffer
+* Statistical Methods - Heider Jeffer Notation (Link)
